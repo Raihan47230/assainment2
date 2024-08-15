@@ -170,10 +170,14 @@ div h1{
 .position{
      position: relative;
 }
-.text_bold{
-     font-size: xx-large;
-     font-weight: 600;
-}
+.text_bold_2{
+     font-size: x-large;
+     font-weight: bold;  
+   }
+   .text_bold_1{
+     font-size: x-large;
+     font-weight: bold;  
+   }
 
 .color{
      color: rgba(255, 255, 255, 0.5);
